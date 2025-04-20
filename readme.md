@@ -21,10 +21,8 @@ LD_PRELOAD=./malloc.so ls
 
 3)enjoy! after successful executrion u will get in ur log file ur allocation records
 
-/*
-* references :
+references :
 * simple-linear mem manager and its integration to linux
-* https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
-* allocator concept
+https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
+allocator concept
 * https://habr.com/ru/articles/435698/
-*/
