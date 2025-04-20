@@ -24,5 +24,6 @@ LD_PRELOAD=./malloc.so ls
 references :
 * simple-linear mem manager and its integration to linux
 https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
+
 allocator concept
 * https://habr.com/ru/articles/435698/
